@@ -33,6 +33,6 @@ The project is first prototyped in a **simulated WiFi LAN** using [GNS3](https:/
 
   ---
 
-  ## 🙋‍♂️ Maintainers
+## 🙋‍♂️ Maintainers
 Tanmay Shingavi – [LinkedIn](https://www.linkedin.com/in/tanmay-shingavi/) | [GitHub](https://github.com/decodingafterlife)
 
