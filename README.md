@@ -22,7 +22,7 @@ This project aims to enhance ARP security by introducing a **blockchain-based ve
 
 ## 🧪 Simulation Environment (GNS3)
 
-The project is first prototyped in a **simulated WiFi LAN** using [GNS3](https://www.gns3.com/). The simulation includes:
+The project is first prototyped in a **simulated WiFi LAN** using [GNS3](https://www.gns3.com/) on a [Proxmox Hypervisor](https://www.proxmox.com/en/). The simulation includes:
 
 - **VyOS Universal Router** – acts as both DHCP server and blockchain validator
 - **Ubuntu VM** – a trusted network client
