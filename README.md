@@ -31,3 +31,8 @@ The project is first prototyped in a **simulated WiFi LAN** using [GNS3](https:/
 - **Virtual Switch** – connects clients and router in the LAN
 - **Cloud Node** – bridges GNS3 network to host WiFi adapter (for internet)
 
+  ---
+
+  ## 🙋‍♂️ Maintainers
+Tanmay Shingavi – [LinkedIn](https://www.linkedin.com/in/tanmay-shingavi/) | [GitHub](https://github.com/decodingafterlife)
+
